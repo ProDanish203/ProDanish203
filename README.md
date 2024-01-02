@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dewhehe_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dewhehe_sh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/danish-siddiqui-7537b62a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/danish-siddiqui-7537b62a4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danish-siddiqui-7537b62a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danish-siddiqui-7537b62a4" height="30" width="40" /></a>
 <a href="https://fb.com/danish siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danish siddiqui" height="30" width="40" /></a>
 <a href="https://instagram.com/doesnt.matter.o_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doesnt.matter.o_o" height="30" width="40" /></a>
 </p>
